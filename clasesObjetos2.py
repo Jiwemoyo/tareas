@@ -15,3 +15,5 @@ alumno1 = Alumno("Alessandro",7)
 
 alumno1.resultado() 
 
+
+
